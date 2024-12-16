@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "subject": "Matematyka",
+        "deadline": "2024-12-20",
+        "description": "Zadania 4.99, 4.102 a,b,c"
+    },
+    {
+        "id": "2",
+        "subject": "Fizyka",
+        "deadline": "2024-12-18",
+        "description": "zrob cokolwiek"
+    }
+]
